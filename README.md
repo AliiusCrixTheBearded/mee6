@@ -3,7 +3,7 @@
 ## What is it?
 MarineBot is a Discord bot specifically designed for MarineCoin ICO, supporting a wide range of commands and ability to add your own.
 
-## MarineCoin uses
+## MarineBot uses
 
 - [discord.py](https://github.com/Rapptz/discord.py)
 - [discord.ie](https://github.com/qeled/discordie)
