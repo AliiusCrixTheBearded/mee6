@@ -1,5 +1,4 @@
 # MarineBot : The Discord bot
-![Mee6](http://mee6.xyz/static/img/meeseeks.png)
 
 ## What is it?
 MarineBot is a Discord bot specifically designed for MarineCoin ICO, supporting a wide range of commands and ability to add your own.
